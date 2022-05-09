@@ -6,12 +6,12 @@ diving wholeheartedly into a pivot to data science.
 <br/>
 <br/>
 <br/>
-Beyond the tools you might expect from my current career, like
-- excellence in collaboration,
+I bring tools from my current career, like
+- collaborative excellence,
 - clarity of communication, and 
 - creative problem-solving,
 
-I have skills in and am developing experience in ...
+to which I have added skills in...
 - Python &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp; :snake:
 - SQL &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; :computer:
 - R &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; :pirate_flag:
