@@ -11,8 +11,7 @@ I bring tools from my current career, like
 - clarity of communication, and 
 - creative problem-solving,
 
-<br/>
-<br/>
+
 to which I have added skills in...
 - Python &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp; :snake:
 - SQL &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; :computer:
