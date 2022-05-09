@@ -1,4 +1,4 @@
-### :wave: Hi, I’m Jacob Tews, and I’m on a journey to understand the world through its data! :bowtie:
+### :wave: Hi, my name is Jacob, and I’m on a journey to understand the world through its data! :bowtie:
 <br/>
 
 After more than a decade as a university music professor, I am turning the page to a new chapter of my life, \
