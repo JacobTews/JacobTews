@@ -9,7 +9,7 @@ diving wholeheartedly into a pivot to data science.
 I bring tools from my current career, like
 - collaborative excellence,
 - clarity of communication, and 
-- creative problem-solving,
+- creative problem-solving, <br/>
 
 
 to which I have added skills in...
