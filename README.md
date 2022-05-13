@@ -1,8 +1,8 @@
-### :wave: Hi, my name is Jacob, and I’m on a journey to understand the world through its data! :bowtie:
+### <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" alt="waving hand" width="30"/> Hi, my name is Jacob, and I’m on a journey to understand the world through its data! :bowtie:
 <br/>
 
-After more than a decade as a university music professor, I am turning the page to a new chapter of my life, \
-diving wholeheartedly into a pivot to data science.
+I am turning the page to a new chapter of my life, diving wholeheartedly into a pivot to **data science**, \
+after more than a decade as a university music professor and orchestra conductor. 
 <br/>
 <br/>
 <br/>
@@ -27,8 +27,12 @@ to which I have added skills in...
 <br/>
 <br/>
 <br/>
-Thanks for stopping by my github, and please don't hesitate to reach out to me if you know of internships or jobs which could use my unique set of experiences and skills:
-&emsp;:email: [j.p.tews@gmail.com](mailto:j.p.tews@gmail.com)
+Want to take a look at my work? Try one of these projects:
+
+[**Preprocessing and EDA sample**](https://github.com/JacobTews/preprocessing_and_eda/blob/main/README.md)
+
+Thanks for stopping by my github, and please don't hesitate to reach out to me if you know of internships or jobs which could use my unique set of experiences and skills: <br/><br/>
+&emsp;:email: [j.p.tews@gmail.com](mailto:j.p.tews@gmail.com) <br/><br/>
 &emsp;:link: [LinkedIn profile](https://www.linkedin.com/in/jacob-tews/)
 
 <!---
