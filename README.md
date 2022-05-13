@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" alt="waving hand" width="30"/> Hi, my name is Jacob, and I’m on a journey to understand the world through its data! :bowtie:
+### <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" alt="waving hand" width="30px"/> Hi, my name is Jacob, and I’m on a journey to understand the world through its data! :bowtie:
 <br/>
 
 I am turning the page to a new chapter of my life, diving wholeheartedly into a pivot to **data science**, \
