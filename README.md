@@ -31,6 +31,8 @@ Want to take a look at my work? Try one of these projects:
 
 [**Preprocessing and EDA sample**](https://github.com/JacobTews/preprocessing_and_eda/blob/main/README.md)
 
+[**Time-series analysis sample**](https://github.com/JacobTews/simple_time_series/blob/f0a9bbcb75348265c72d0053fdd79b9dab3a9ae0/README.md)
+
 Thanks for stopping by my github, and please don't hesitate to reach out to me if you know of internships or jobs which could use my unique set of experiences and skills: <br/><br/>
 &emsp;:email: [j.p.tews@gmail.com](mailto:j.p.tews@gmail.com) <br/><br/>
 &emsp;:link: [LinkedIn profile](https://www.linkedin.com/in/jacob-tews/)
