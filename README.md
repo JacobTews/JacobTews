@@ -24,14 +24,19 @@ to which I have added skills in...
 - StackOverflowing &emsp;&nbsp; :grin:
 
 ...and more!
+
 <br/>
 <br/>
-<br/>
+
 Want to take a look at my work? Try one of these projects:
 
-[**Preprocessing and EDA sample**](https://github.com/JacobTews/preprocessing_and_eda/blob/main/README.md)
+>[**Preprocessing and EDA sample**](https://github.com/JacobTews/preprocessing_and_eda/blob/main/README.md) (Python)
 
-[**Time-series analysis sample**](https://github.com/JacobTews/simple_time_series/blob/f0a9bbcb75348265c72d0053fdd79b9dab3a9ae0/README.md)
+>[**Time-series analysis sample**](https://github.com/JacobTews/simple_time_series/blob/f0a9bbcb75348265c72d0053fdd79b9dab3a9ae0/README.md) (Python)
+
+>[**SeriousSQL case studies**](https://github.com/JacobTews/SeriousSQL/blob/2e6ef89a27053b5a39559fc99165941fa3239075/README.md) (PostgreSQL)
+
+<br/><br/>
 
 Thanks for stopping by my github, and please don't hesitate to reach out to me if you know of internships or jobs which could use my unique set of experiences and skills: <br/><br/>
 &emsp;:email: [j.p.tews@gmail.com](mailto:j.p.tews@gmail.com) <br/><br/>
