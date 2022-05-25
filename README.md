@@ -34,6 +34,8 @@ Want to take a look at my work? Try one of these projects:
 
 >[**Preprocessing and EDA sample**](https://github.com/JacobTews/preprocessing_and_eda/blob/main/README.md) (Python)
 
+>[**Cryptocurrency case studies**](https://github.com/JacobTews/sql_crypto/blob/be998bd7ec9cf37c454c9ca1c3ee4d9d7ec5be4f/README.md) (PostreSQL)
+>
 >[**SeriousSQL case studies**](https://github.com/JacobTews/SeriousSQL/blob/2e6ef89a27053b5a39559fc99165941fa3239075/README.md) (PostgreSQL)
 
 <br/><br/>
