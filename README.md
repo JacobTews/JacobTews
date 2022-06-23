@@ -12,14 +12,14 @@ I bring tools from my current career, like
 - creative problem-solving, <br/><br/>
 
 
-to which I have added skills in...
+to which I have added skills in (listed in order of higher to lower comfort/experience)...
 - Python &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp; :snake:
 - SQL &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; :computer:
-- R &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; :pirate_flag:
 - data visualization &emsp;&nbsp;&nbsp; :bar_chart:
 - machine learning &emsp;&nbsp;&nbsp; :chart_with_upwards_trend:
 - statistics &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; :abacus:
 - hypothesis testing &emsp; :test_tube:
+- R &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; :pirate_flag:
 - marketing &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; :money_with_wings:
 - StackOverflowing &emsp;&nbsp; :grin:
 
