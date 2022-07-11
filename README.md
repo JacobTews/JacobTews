@@ -30,13 +30,13 @@ to which I have added skills in (listed in order of higher to lower comfort/expe
 
 Want to take a look at my work? Try one of these projects:
 
->[**Time-series analysis sample**](https://github.com/JacobTews/simple_time_series/blob/f0a9bbcb75348265c72d0053fdd79b9dab3a9ae0/README.md) (Python)
+>[**Decreased expenses and increased retention through time-series analysis in Python**](https://github.com/JacobTews/simple_time_series/blob/main/README.md)
 
->[**Preprocessing and EDA sample**](https://github.com/JacobTews/preprocessing_and_eda/blob/main/README.md) (Python)
+>[**Improved hiring of software engineers through data preprocessing and analysis in Python**](https://github.com/JacobTews/preprocessing_and_eda/blob/main/README.md)
 
->[**Cryptocurrency case studies**](https://github.com/JacobTews/sql_crypto/blob/be998bd7ec9cf37c454c9ca1c3ee4d9d7ec5be4f/README.md) (PostreSQL)
+>[**Enhanced stakeholder knowledge of cryptocurrency trends through case study in PostgreSQL**](https://github.com/JacobTews/sql_crypto/blob/main/README.md)
 
->[**SeriousSQL case studies**](https://github.com/JacobTews/SeriousSQL/blob/2e6ef89a27053b5a39559fc99165941fa3239075/README.md) (PostgreSQL)
+>[**Debugged queries for analytics team in PostgreSQL**](https://github.com/JacobTews/SeriousSQL/blob/main/README.md)
 
 <br/><br/>
 
