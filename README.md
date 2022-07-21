@@ -10,7 +10,7 @@ I bring tools from my current career, like
 - clear communication,
 - creative problem-solving,
 - considerate collaboration, and
-- consistent curiosity <br/><br/>
+- consistent curiosity, <br/><br/>
 
 
 to which I have added skills in (listed in order of higher to lower comfort/experience)...
