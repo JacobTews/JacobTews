@@ -7,9 +7,10 @@ after more than a decade as a university music professor and orchestra conductor
 <br/>
 <br/>
 I bring tools from my current career, like
-- collaborative excellence,
-- clarity of communication, and 
-- creative problem-solving, <br/><br/>
+- clear communication,
+- creative problem-solving,
+- considerate collaboration, and
+- consistent curiosity <br/><br/>
 
 
 to which I have added skills in (listed in order of higher to lower comfort/experience)...
