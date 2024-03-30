@@ -1,12 +1,12 @@
 ## <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" alt="waving hand" width="30px" height="30px"/> Hi! I'm Jacob, and I am on a journey to understand the world through its data! :bowtie:
 <br/>
 
-I am turning the page to a new chapter of my life, diving wholeheartedly into a pivot to **data science**, \
+I am turning the page to a new chapter of my life, diving wholeheartedly into a pivot to **data analytics** and **analytics engineering**, \
 after more than a decade as a university music professor and orchestra conductor. 
 <br/>
 <br/>
 <br/>
-I bring tools from my current career, like
+I bring tools from my previous career, like
 - clear communication,
 - creative problem-solving,
 - considerate collaboration, and
@@ -14,11 +14,14 @@ I bring tools from my current career, like
 
 
 to which I have added skills in (listed in order of higher to lower comfort/experience)...
-- Python &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp; :snake:
 - SQL &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; :computer:
+- the Qlik ecosystem (Compose, Replicate, Sense)
+- Python &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp; :snake:
+- SQL &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; :fire:
 - data visualization &emsp;&nbsp;&nbsp; :bar_chart:
 - machine learning &emsp;&nbsp;&nbsp; :chart_with_upwards_trend:
 - statistics &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; :abacus:
+- did I say SQL? &emsp;&emsp;&emsp; :heart_eyes:
 - hypothesis testing &emsp; :test_tube:
 - R &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; :pirate_flag:
 - marketing &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; :money_with_wings:
